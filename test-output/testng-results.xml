@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-10T06:25:30 IST" name="Suite" finished-at="2023-09-10T06:25:30 IST" duration-ms="48">
+    <groups>
+    </groups>
+    <test started-at="2023-09-10T06:25:30 IST" name="Test" finished-at="2023-09-10T06:25:30 IST" duration-ms="48">
+      <class name="TestNgPack.MyClass1">
+        <test-method signature="ind()[pri:0, instance:TestNgPack.MyClass1@1817d444]" started-at="2023-09-10T06:25:30 IST" name="ind" finished-at="2023-09-10T06:25:30 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ind -->
+        <test-method signature="pak()[pri:0, instance:TestNgPack.MyClass1@1817d444]" started-at="2023-09-10T06:25:30 IST" name="pak" finished-at="2023-09-10T06:25:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pak -->
+        <test-method signature="uk()[pri:0, instance:TestNgPack.MyClass1@1817d444]" started-at="2023-09-10T06:25:30 IST" name="uk" finished-at="2023-09-10T06:25:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uk -->
+      </class> <!-- TestNgPack.MyClass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
